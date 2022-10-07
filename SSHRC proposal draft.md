@@ -12,12 +12,13 @@
 - A major gap in the existing literature is a comprehensive analysis of PCA's policies and practice, with respect to its major commitments and legal obligations. By analyzing not just the ethics of PCA's behaviour, but its compliance/non-compliance with the law and commitments, a deeper understanding of operational solutions will emerge. PCA has a history of non-compliance (Gowland 2019, UNESCO CITATION HERE), and an institution-wide analysis will reveal current commitment-compliance gaps, and inform policy-makers and Indigenous communities and decision-makers about what actions have been most worthwhile.
 
 ## Methods
-- Mixed methods approach, as Indigenous knowledge production and holding does not fit cleanly into Western academic or scientific paradigms, such as the dichotomy between quantitative and qualitative analysis.
-- TRC recommendations 43 and 44
-- Sheryl Lightfoot's spectrum of compliance
-- Community-driven approach and outcomes which seek to keep Indigenous knowledge within Indigenous communities, support Indigenous data governance, improve community progress towards community goals, contribute to supporting the intellectual property of Indigenous peoples and the land, and deliver on collective goals. Indigenous knowledge will be centered rather than pushed to the sidelines (Hunt 2017, Kovach 2021), serving as the default world view to the maximum of my ability, as a settler researcher, to do so without the embodied experience and knowledge of Indigeneity (Hunt 2017).
-- Authorship and responsible citations
-- Research sites selected based on (==CITE ALL THESE==):
+This research seeks to break from established protected area management traditions, which seek to 'integrate' Indigenous knowledge "into forms compatible" with Western scientific paradigms, thereby devaluating, denegrating and delgitimizing it (Nadasdy 2003; Kovach 2021, 64-5; Hunt 2017). Following a mixed methods approach that recognizes that Indigenous thought does not always fit cleanly into Western academic or scientific paradigms, such as the dichotomy between quantitative and qualitative analysis, Indigenous knowledge will be centered rather than pushed to the sidelines (Hunt 2017, Kovach 2021). Indigenous paradigms will serve as the default research context to the maximum of my ability, as a settler researcher, to do so without the embodied experience and knowledge of Indigeneity (Hunt 2017). In this way, I will proceed as a student/witness, rather than as an academic/recorder (Hunt 2017, 5). 
+
+Using Sheryl Lightfoot's spectrum of compliance ==(CITE THIS)==, as well as numbers 43 and 44 of the Truth and Reconciliation Commission's calls to action, I will evaluate PCA's location on a compliance matrix. Data collection procedures will be developed using a community-driven approach which seeks to keep Indigenous knowledge within Indigenous communities, supports data governance, improves community progress toward community goals, and contributes to protecting the intellectual property of Indigenous peoples and the land.
+
+Except at the request of individual participants, all participants will be cited using ==NAME'S== citation templates, and authorship will be provided in consultation with partners.
+
+Research sites will be selected based on (==CITE ALL THESE==):
     - *Litigation (Lake Superior National Marine Protected Area, Wood Buffalo National Park)*
     - *Past studies (Gwaii Haanas, Jasper, Banff, Revelstoke, Kootenay, Wood Buffalo National Parks)*
     - *Indigenous news releases, publications and testimony (Wood Buffalo National Park, Georgian Bay/Bruce Peninsula, Point Grondine)*
