@@ -8,3 +8,4 @@
 [GitHub Student Offers](https://education.github.com/globalcampus/student)
 [Markdown Syntax Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 [GitLens Walkthrough Video](https://www.youtube.com/watch?v=UQPb73Zz9qk)
+[Markdown Tables for Github](https://www.pluralsight.com/guides/working-tables-github-markdown)
