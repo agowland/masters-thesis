@@ -1,0 +1,3 @@
+[Mandate Letter from PM Justin Trudeau to ECCC Minister Jonathan Wilkinson, 2019](https://pm.gc.ca/en/mandate-letters/2019/12/13/archived-minister-environment-and-climate-change-mandate-letter)
+
+==There remains no more important relationship to me and to Canada than the one with Indigenous Peoples. We made significant progress in our last mandate on supporting self-determination, improving service delivery and advancing reconciliation. I am directing every single Minister to determine what they can do in their specific portfolio to accelerate and build on the progress we have made with First Nations, Inuit and Métis Peoples.==
