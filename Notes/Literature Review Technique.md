@@ -33,4 +33,13 @@ Rewhorn, S. (2017). Writing your successful literature review. *Journal of Geogr
 
 - The lit review should make sense for the story you're trying to tell; it should be a narrative that helps set the scene for your story. Worry less about how others think it should be written and write it the way this research needs it to be written.
 - The literature will change over time; the goal right now is to create a draft that gets added to as the project evolves
-- 
+- Start with subheadings, this:
+  - Keeps things organized so that similar authors and concepts are grouped together
+  - Allows for the paper to be easily re-organized after it's written so that things are presented in the most logical way with minimal rewriting
+  - What is the best way to present the material? 
+    - Diagrams, tables and flow charts are all acceptable
+  - Typically, literature reviews start with the background and then lead into the most relevant research in your area, before moving into the gap that your reasearch is going to fill.
+  - Possible inclusions:
+    - High-level background information, covering concepts and fields; think of this as a way to tell the reader what street they're on, in case they've taken a wrong turn
+    - Sections that discuss the main themes that have been explored by other authors, making sure that the themes included here are actually relevant to the current research, or explaining why they're included if their relevancy isn't obvious (e.g. if there isn't a lot of relevant research that's already been done)
+    - A section that notes the gaps in scholarship, including questions that other authors have presented for future research, and the areas that no research has explored (show where your research fits in, and how your research contributes to the present and future body of knowledge)
