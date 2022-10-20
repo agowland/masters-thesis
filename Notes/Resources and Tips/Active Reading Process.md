@@ -2,7 +2,7 @@
 
 - Remember to use "Read Aloud" and "Immersive Reader" in Microsoft Edge
 - Import into Kurtzweil 3000 when available
-- Get audiobooks when availabl, and look for plugins for VSCode and Obsidian that allow notetaking on audio, or use Nvivo if that will work
+- Get audiobooks when available, and look for plugins for VSCode and Obsidian that allow notetaking on audio, or use Nvivo if that will work
 
 ## Self-modified SQ3R
 
@@ -23,7 +23,7 @@
       - Deep read = thorough notes
         - Source is a foundational text in the field or subject being researched
         - Source is highly relevant
-        - Source contributs many new idas, concpts or a new perspective
+        - Source contributes many new ideas, concepts or a new perspective
         - Source fills a gap in the literature
 
 ### Read -- Selection
