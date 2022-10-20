@@ -32,4 +32,5 @@ Rewhorn, S. (2017). Writing your successful literature review. *Journal of Geogr
 ## Structure
 
 - The lit review should make sense for the story you're trying to tell; it should be a narrative that helps set the scene for your story. Worry less about how others think it should be written and write it the way this research needs it to be written.
+- The literature will change over time; the goal right now is to create a draft that gets added to as the project evolves
 - 
