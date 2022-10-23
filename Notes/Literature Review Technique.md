@@ -43,3 +43,16 @@ Rewhorn, S. (2017). Writing your successful literature review. *Journal of Geogr
     - High-level background information, covering concepts and fields; think of this as a way to tell the reader what street they're on, in case they've taken a wrong turn
     - Sections that discuss the main themes that have been explored by other authors, making sure that the themes included here are actually relevant to the current research, or explaining why they're included if their relevancy isn't obvious (e.g. if there isn't a lot of relevant research that's already been done)
     - A section that notes the gaps in scholarship, including questions that other authors have presented for future research, and the areas that no research has explored (show where your research fits in, and how your research contributes to the present and future body of knowledge)
+
+## Editing and Evolving
+
+- Parts that were once crucial may eventually become less important, and vice versa. Be ruthless in cutting out anything that does not have a direct relation to your *current* research.
+  - These can always be saved for a 'future research' section later on
+- Take a look at the literature review again after all other sections are completed. 
+  - Does it still make sense? 
+  - Does it still flow logically?
+  - Are all parts still relevant?
+  - Does it still contribute to the story of the resarch, in practice and in spirit?
+  - Is anything missing?
+  - Is too much focus paid on any one area that doesn't need it?
+  - Has any new research come out while you were completing your project that should be included or mentioned?
