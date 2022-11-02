@@ -1,0 +1,6 @@
+{
+    "editor.wordWrap": "bounded",
+    "C_Cpp.vcFormat.wrap.preserveBlocks": "never",
+    "markdown.preview.breaks": false,
+    "markdown.preview.typographer": true
+}
