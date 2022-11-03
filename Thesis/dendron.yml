@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: masters-thesis
+            name: Thesis
     journal:
         dailyDomain: daily
         name: journal
