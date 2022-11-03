@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: docs
+            name: dendron
     journal:
         dailyDomain: daily
         name: journal
